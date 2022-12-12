@@ -1,0 +1,29 @@
+/* ------------------------------------------------------- FONT ------------------------------------------------------- */
+$base_font_family:  "Roboto", "Noto Sans KR", sans-serif !important;
+/* ------------------------------------------------------- COLOR ------------------------------------------------------- */
+$primary: #5D5FEF;
+$secondary: #7879F1;
+$secondary-dark: #4A45BD;
+$bg-actived-dark: #A5A5E3;
+$bg-blank-area: rgba(224, 224, 246, 0.4);
+$border: #e3ebf6;
+$color-white: #ffffff;
+$color-lightgray: #f9fafb;
+$color-gray: #999999;
+$color-darkgray: #555555;
+$color-title: #191f28;
+$color-description: #4e5968;
+$color-mark: #cc0000;
+/* ------------------------------------------------------- LAYOUT ------------------------------------------------------- */
+$gutter-xs: 6px; 
+$gutter-sm: 12px;
+$gutter-md: 24px; 
+$gutter-lg: 30px; 
+$gutter-xl : 40px;
+$gutter-xxl : 60px;
+$radius-sm: 4px;
+$radius-md: 12px;
+
+$header-height: 64px;
+$breadcrumbs-height: 68px;
+$drawer-width: 240px;
